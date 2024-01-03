@@ -1,7 +1,6 @@
-package com.evan.datastructures;
+package com.evan.datastructures.linkedlist;
 
 
-import javax.xml.soap.Node;
 import java.util.Comparator;
 import java.util.Iterator;
 import java.util.ListIterator;
